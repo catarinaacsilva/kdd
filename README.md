@@ -1,5 +1,7 @@
 # Knowledge Discovery in Dataset
 
+A set of tasks as an introduction to data mining.
+
 - **Task 1:** Exploratory Data Analysis
 - **Task 2:** Rank the numerical features using ANOVA; PCA and KPCA
 - **Task 3:** Linear Discriminant Functios and KNN
