@@ -6,7 +6,6 @@ A set of tasks as an introduction to data mining.
 - **Task 2:** Rank the numerical features using ANOVA; PCA and KPCA
 - **Task 3:** Linear Discriminant Functios and KNN
 - **Task 4:** Model Evaluation
-- **Task 5:** Classification Models and Clustering
 
 Note: Initial folder contains the first project just to initial exploration
 
