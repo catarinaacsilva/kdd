@@ -4,8 +4,9 @@ A set of tasks as an introduction to data mining.
 
 - **Task 1:** Exploratory Data Analysis
 - **Task 2:** Rank the numerical features using ANOVA; PCA and KPCA
-- **Task 3:** Linear Discriminant Functios and KNN
+- **Task 3:** Linear Discriminant Functions and KNN
 - **Task 4:** Model Evaluation
+- **Paper analysis**: Replicate the steps followed on a published paper and improvements on it
 
 Note: Initial folder contains the first project just to initial exploration
 
