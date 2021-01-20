@@ -1,4 +1,4 @@
-# Data Exploration (2020) Project
+# Data Mining: Paper analysis
 
 This project tries to replicate the work done in the following paper: "Attack and anomaly detection in IoT sensors in IoT sites using machine learning approaches".
 The objective of the paper is to detect attacks and anomaly detection in the Internet of Things (IoT).
