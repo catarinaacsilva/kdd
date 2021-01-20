@@ -44,12 +44,6 @@ After the notebook started, copy the url and open it in a browser.
 4. **bonus02.ipynb** - apply the previous improvemtns plus feature selection
 
 ## Authors
-Grupo: 5
-- André Moreira, 62058
-- Catarina Silva, 76399
-- Luís Marques, 81526
-
-## Authors
 
 * **Catarina Silva** - [catarinaacsilva](https://github.com/catarinaacsilva)
 
